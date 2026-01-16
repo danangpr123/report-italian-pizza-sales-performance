@@ -14,6 +14,8 @@ contributions to support data-driven decision making.
 - Support administrative reporting and documentation
 - Provide clear sales summaries for management review
 - Improve data readability and consistency
+<img width="1903" height="1068" alt="image" src="https://github.com/user-attachments/assets/1659d8ff-09e5-420f-8850-b1f4a92d427a" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dca93a00-3693-49ef-a058-b87425c391d0" />
 
 ## 📁 File Description
 - **pizza_sales_1.xlsx**
