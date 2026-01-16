@@ -15,7 +15,8 @@ contributions to support data-driven decision making.
 - Provide clear sales summaries for management review
 - Improve data readability and consistency
 <img width="1903" height="1068" alt="image" src="https://github.com/user-attachments/assets/1659d8ff-09e5-420f-8850-b1f4a92d427a" />
-<img width="886" height="709" alt="image" src="https://github.com/user-attachments/assets/9783016c-832c-461e-a863-d6d1c0ab4c6a" />
+<img width="898" height="711" alt="image" src="https://github.com/user-attachments/assets/7e49ba04-fd1a-4dda-abf4-536611e2e25e" />
+
 
 
 ## 📁 File Description
