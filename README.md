@@ -103,7 +103,7 @@ The dataset contains historical pizza sales transaction data, including:
 - Price
 
 ## 📊Dashboard
-![Italian Pizza Sales Dashboard](images/536911794-7e49ba04-fd1a-4dda-abf4-536611e2e25e.png) 
+![Italian Pizza Sales Dashboard](536911794-7e49ba04-fd1a-4dda-abf4-536611e2e25e.png) 
 ---
 
 ## 📌 Author
