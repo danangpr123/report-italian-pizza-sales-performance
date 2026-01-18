@@ -91,6 +91,8 @@ This dashboard serves as a practical tool for monitoring performance and support
 ---
 
 ## 📁 Dataset
+https://docs.google.com/spreadsheets/d/146A8HN4DVF5XgnFICZued4IYyoLiWrDv/edit?usp=sharing&ouid=116795963460350939437&rtpof=true&sd=true
+
 The dataset contains historical pizza sales transaction data, including:
 - Order ID
 - Order Date
@@ -100,6 +102,8 @@ The dataset contains historical pizza sales transaction data, including:
 - Quantity
 - Price
 
+## 📊Dashboard
+![Italian Pizza Sales Dashboard](images/dashboard_preview.png)
 ---
 
 ## 📌 Author
