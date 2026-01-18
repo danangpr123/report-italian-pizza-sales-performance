@@ -1,50 +1,108 @@
-## 📌 Overview
-This project presents a sales performance analysis of an Italian pizza business.
-The analysis aims to identify sales trends, best-selling products, and revenue
-contributions to support data-driven decision making.
+# 🍕 Italian Pizza Sales Performance Dashboard
 
-## 🛠️ Tools Used
-- Microsoft Excel
-- Data Sorting & Filtering
-- Pivot Tables
-- Charts & Dashboard
+## 📌 Project Overview
+This project analyzes the sales performance of an Italian pizza business using transactional sales data.  
+The goal is to uncover business insights related to revenue, customer purchasing behavior, top-selling products, and sales trends over time through an interactive dashboard.
 
-## 🗂️ Objective
-- Organize raw sales data into structured records
-- Support administrative reporting and documentation
-- Provide clear sales summaries for management review
-- Improve data readability and consistency
-<img width="1903" height="1068" alt="image" src="https://github.com/user-attachments/assets/1659d8ff-09e5-420f-8850-b1f4a92d427a" />
-<img width="898" height="711" alt="image" src="https://github.com/user-attachments/assets/7e49ba04-fd1a-4dda-abf4-536611e2e25e" />
+---
 
+## 🎯 Project Objective
+The objective of this project is to:
+- Evaluate overall sales performance
+- Identify top-performing pizza categories and products
+- Analyze monthly revenue trends
+- Understand customer purchasing patterns through key metrics
 
+This analysis helps support data-driven decision making for business growth and operational optimization.
 
-## 📁 File Description
-- **pizza_sales_1.xlsx**
-  - `Raw Data Pizza Sales`  
-    Contains detailed transaction records such as:
-    - Order ID
-    - Pizza name
-    - Order date & time
-    - Quantity
-    - Unit price & total price
-    - Pizza size & category
-  - `Dashboard`  
-    Visual summary of sales performance using charts and tables
+---
 
-## 📈 Report Output
-- Organized and clean sales dataset
-- Sales performance summary
-- Visual dashboard for easier monitoring
-- Ready-to-use administrative report format
+## ❓ Business Questions (Key KPIs)
+The dashboard answers the following key business questions:
 
-## 🎯 Key Value 
-- Demonstrates ability to manage large datasets
-- Shows attention to detail and data consistency
-- Supports reporting and documentation tasks
-- Suitable for administrative, data entry, and reporting roles
+1. What is the **total revenue** generated?
+2. How many **total orders** were placed?
+3. What is the **Average Order Value (AOV)**?
+4. Which **pizza categories** generate the highest sales volume?
+5. What are the **Top 5 best-selling pizzas** by quantity?
+6. How does **revenue trend over time (monthly)**?
+7. Which **pizza sizes** contribute the most to total revenue?
 
-  ## 👤 Author
+---
+
+## 📊 Key Metrics
+- **Total Revenue:** $817,860.05  
+- **Total Orders:** 21,350  
+- **Average Order Value (AOV):** $38.31  
+
+---
+
+## ⚙️ Data Analysis Process
+1. **Data Understanding**  
+   Reviewed pizza sales transaction data including order details, dates, categories, sizes, quantities, and prices.
+
+2. **Data Cleaning**  
+   - Ensured consistent date and time formats  
+   - Removed duplicate records  
+   - Validated numerical fields such as quantity and price  
+
+3. **Data Transformation**  
+   - Calculated Total Revenue  
+   - Calculated Average Order Value (AOV)  
+   - Aggregated sales by category, pizza name, size, and month  
+
+4. **Data Visualization**  
+   Built an interactive Excel dashboard containing:
+   - KPI Cards (Revenue, Orders, AOV)
+   - Quantity by Category (Pie Chart)
+   - Top 5 Pizza by Quantity (Bar Chart)
+   - Revenue per Month (Line Chart)
+   - Revenue by Pizza Category & Size (Stacked Bar Chart)
+
+---
+
+## 📈 Insights & Findings
+- **Classic Pizza** is the top-performing category, contributing approximately **30% of total quantity sold**.
+- The **Top 5 best-selling pizzas** dominate overall sales volume, led by *The Classic Deluxe Pizza*.
+- **Large (L)** and **Medium (M)** pizza sizes generate the highest revenue, indicating strong customer preference.
+- Monthly revenue shows **seasonal fluctuations**, with peaks in mid-year and lower performance toward the end of the year.
+- Sales distribution across categories is relatively balanced, reducing dependency on a single product type.
+
+---
+
+## ✅ Final Conclusion
+The business demonstrates a **stable and healthy sales performance** with consistent revenue generation.  
+Key recommendations include:
+- Prioritizing promotion of **Classic category pizzas**
+- Focusing inventory and marketing on **Large and Medium sizes**
+- Running targeted campaigns during lower-performing months
+- Leveraging top-selling pizzas for bundle or upselling strategies
+
+This dashboard serves as a practical tool for monitoring performance and supporting strategic business decisions.
+
+---
+
+## 🛠 Tools Used
+- Microsoft Excel  
+  - Pivot Tables  
+  - Charts & Slicers  
+  - Dashboard Design  
+
+---
+
+## 📁 Dataset
+The dataset contains historical pizza sales transaction data, including:
+- Order ID
+- Order Date
+- Pizza Name
+- Category
+- Size
+- Quantity
+- Price
+
+---
+
+## 📌 Author
 **Danang Prayogi**  
-Bachelor of Informatics Engineering  
-Administrative & Data-Oriented Portfolio
+Fresh Graduate – Informatics Engineering  
+Aspiring Data Analyst
